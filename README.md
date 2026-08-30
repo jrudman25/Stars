@@ -2,7 +2,7 @@
 
 A randomly generated night sky with twinkling and shooting stars.
 
-![Stars night sky demo](./images/stars-demo.gif)
+![Stars night sky demo gif](./images/stars-demo.gif)
 
 ## Features
 

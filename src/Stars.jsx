@@ -157,7 +157,6 @@ function Stars() {
               <span className="eyebrow">Observatory</span>
               <h1>Tune the night</h1>
             </div>
-            <span className="coordinates">∞ / ∞</span>
           </div>
 
           <div className="settings-list">
