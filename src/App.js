@@ -1,9 +1,8 @@
-import Stars from './Stars';
+import React from "react";
+import Stars from "./Stars.jsx";
 
 function App() {
-  return (
-    <Stars />
-  );
+  return React.createElement(Stars);
 }
 
 export default App;
